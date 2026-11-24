@@ -1,0 +1,198 @@
+﻿.\.venv\Scripts\pyinstaller.exe : 273 INFO: PyInstaller: 6.22.3, contrib hooks: 2026.10
+所在位置 行:1 字符: 68
++ ... tion).Path; .\.venv\Scripts\pyinstaller.exe --noconfirm --clean --con ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (273 INFO: PyIns... hooks: 2026.10:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+274 INFO: Python: 3.13.18
+330 INFO: Platform: Windows-11-10.0.26100-SP0
+330 INFO: Python environment: D:\pytyhon project\zhijuan-workbench\.venv
+332 INFO: wrote installer\ZjDebug.spec
+334 INFO: Removing temporary files and cleaning cache in C:\Users\feng\AppData\Local\pyinstaller
+204 WARNING: Failed to collect submodules for 'webview.platforms.android' because importing 'webview.platforms.android'
+ raised: ModuleNotFoundError: No module named 'android'
+1791 INFO: Module search paths (PYTHONPATH):
+['D:\\pytyhon project\\zhijuan-workbench\\.venv\\Scripts\\pyinstaller.exe',
+ 'D:\\Doubao\\app\\task-mode-resource\\python-packages',
+ 'C:\\Users\\feng\\AppData\\Local\\Doubao\\User '
+ 'Data\\sandbox_runtime\\bases\\fa694f517e5995233c80a9a8db5212c2\\python\\python313.zip',
+ 'C:\\Users\\feng\\AppData\\Local\\Doubao\\User '
+ 'Data\\sandbox_runtime\\bases\\fa694f517e5995233c80a9a8db5212c2\\python\\DLLs',
+ 'C:\\Users\\feng\\AppData\\Local\\Doubao\\User '
+ 'Data\\sandbox_runtime\\bases\\fa694f517e5995233c80a9a8db5212c2\\python\\Lib',
+ 'C:\\Users\\feng\\AppData\\Local\\Doubao\\User '
+ 'Data\\sandbox_runtime\\bases\\fa694f517e5995233c80a9a8db5212c2\\python',
+ 'D:\\pytyhon project\\zhijuan-workbench\\.venv',
+ 'D:\\pytyhon project\\zhijuan-workbench\\.venv\\Lib\\site-packages',
+ 'D:\\pytyhon project\\zhijuan-workbench\\installer',
+ 'D:\\pytyhon project\\zhijuan-workbench']
+2304 INFO: Appending 'binaries' from .spec
+2304 INFO: Appending 'datas' from .spec
+2309 INFO: checking Analysis
+2309 INFO: Building Analysis because Analysis-00.toc is non existent
+2309 INFO: Looking for Python shared library...
+2309 INFO: Using Python shared library: C:\Users\feng\AppData\Local\Doubao\User Data\sandbox_runtime\bases\fa694f517e59
+95233c80a9a8db5212c2\python\python313.dll
+2309 INFO: Running Analysis Analysis-00.toc
+2309 INFO: Target bytecode optimization level: 0
+2309 INFO: Initializing module dependency graph...
+2311 INFO: Initializing module graph hook caches...
+2330 INFO: Analyzing modules for base_library.zip ...
+3825 INFO: Processing standard module hook 'hook-encodings.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\\Lib
+\\site-packages\\PyInstaller\\hooks'
+4860 INFO: Processing standard module hook 'hook-math.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\\Lib\\sit
+e-packages\\PyInstaller\\hooks'
+5224 INFO: Processing standard module hook 'hook-heapq.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\\Lib\\si
+te-packages\\PyInstaller\\hooks'
+6481 INFO: Processing standard module hook 'hook-pickle.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\\Lib\\s
+ite-packages\\PyInstaller\\hooks'
+8209 INFO: Caching module dependency graph...
+8258 INFO: Analyzing D:\pytyhon project\zhijuan-workbench\installer\entry.py
+8314 INFO: Processing standard module hook 'hook-multiprocessing.util.py' from 'D:\\pytyhon project\\zhijuan-workbench\
+\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+8534 INFO: Processing standard module hook 'hook-xml.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\\Lib\\site
+-packages\\PyInstaller\\hooks'
+8909 INFO: Processing standard module hook 'hook-sysconfig.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\\Lib
+\\site-packages\\PyInstaller\\hooks'
+8915 INFO: Processing standard module hook 'hook-_ctypes.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\\Lib\\
+site-packages\\PyInstaller\\hooks'
+8970 INFO: Processing standard module hook 'hook-webbrowser.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\\Li
+b\\site-packages\\PyInstaller\\hooks'
+9644 INFO: Processing pre-safe-import-module hook 'hook-typing_extensions.py' from 'D:\\pytyhon project\\zhijuan-workbe
+nch\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+9647 INFO: SetuptoolsInfo: initializing cached setuptools info...
+11983 INFO: Processing standard module hook 'hook-xml.dom.domreg.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.ven
+v\\Lib\\site-packages\\PyInstaller\\hooks'
+12233 INFO: Processing standard module hook 'hook-PIL.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\\Lib\\sit
+e-packages\\PyInstaller\\hooks'
+12355 INFO: Processing standard module hook 'hook-PIL.Image.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\\Li
+b\\site-packages\\PyInstaller\\hooks'
+12944 INFO: Processing standard module hook 'hook-xml.etree.cElementTree.py' from 'D:\\pytyhon project\\zhijuan-workben
+ch\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+13151 INFO: Processing standard module hook 'hook-PIL.ImageFilter.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.ve
+nv\\Lib\\site-packages\\PyInstaller\\hooks'
+13872 INFO: Processing standard module hook 'hook-platform.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\\Lib
+\\site-packages\\PyInstaller\\hooks'
+14182 INFO: Processing standard module hook 'hook-docx.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\\Lib\\si
+te-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+14388 INFO: Processing standard module hook 'hook-lxml.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\\Lib\\si
+te-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+14976 INFO: Processing standard module hook 'hook-lxml.etree.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\\L
+ib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+15532 INFO: Processing standard module hook 'hook-sqlite3.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\\Lib\
+\site-packages\\PyInstaller\\hooks'
+16083 INFO: Processing standard module hook 'hook-pypdfium2.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\\Li
+b\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+16109 INFO: Processing standard module hook 'hook-pypdfium2_raw.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv
+\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+16544 INFO: Processing standard module hook 'hook-webview.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\\Lib\
+\site-packages\\webview\\__pyinstaller'
+17277 INFO: Processing pre-safe-import-module hook 'hook-gi.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\\Li
+b\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+17463 INFO: Processing standard module hook 'hook-clr.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\\Lib\\sit
+e-packages\\pythonnet\\_pyinstaller'
+17497 INFO: Processing standard module hook 'hook-clr_loader.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\\L
+ib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+17636 INFO: Processing standard module hook 'hook-pycparser.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\\Li
+b\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+17903 INFO: Processing standard module hook 'hook-setuptools.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\\L
+ib\\site-packages\\PyInstaller\\hooks'
+17928 INFO: Processing pre-safe-import-module hook 'hook-distutils.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.v
+env\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+17977 INFO: Processing pre-safe-import-module hook 'hook-jaraco.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv
+\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+17979 INFO: Setuptools: 'jaraco' appears to be a full setuptools-vendored copy - creating alias to 'setuptools._vendor.
+jaraco'!
+17995 INFO: Processing pre-safe-import-module hook 'hook-more_itertools.py' from 'D:\\pytyhon project\\zhijuan-workbenc
+h\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+17996 INFO: Setuptools: 'more_itertools' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vend
+or.more_itertools'!
+18166 INFO: Processing standard module hook 'hook-_osx_support.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\
+\Lib\\site-packages\\PyInstaller\\hooks'
+18186 INFO: Processing pre-safe-import-module hook 'hook-packaging.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.v
+env\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+18560 INFO: Processing standard module hook 'hook-setuptools._vendor.jaraco.text.py' from 'D:\\pytyhon project\\zhijuan
+-workbench\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+18562 INFO: Processing pre-safe-import-module hook 'hook-importlib_resources.py' from 'D:\\pytyhon project\\zhijuan-wor
+kbench\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+18574 INFO: Processing pre-safe-import-module hook 'hook-backports.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.v
+env\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+18575 INFO: Setuptools: 'backports' appears to be a full setuptools-vendored copy - creating alias to 'setuptools._vend
+or.backports'!
+19273 INFO: Processing pre-safe-import-module hook 'hook-tomli.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\
+\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+19274 INFO: Setuptools: 'tomli' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.tomli'
+!
+20026 INFO: Processing pre-safe-import-module hook 'hook-wheel.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\
+\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+20027 INFO: Setuptools: 'wheel' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.wheel'
+!
+20909 INFO: Analyzing hidden import 'webview.__pyinstaller'
+20911 INFO: Analyzing hidden import 'webview.__pyinstaller.hook-webview'
+20937 INFO: Processing pre-safe-import-module hook 'hook-importlib_metadata.py' from 'D:\\pytyhon project\\zhijuan-work
+bench\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+20938 INFO: Setuptools: 'importlib_metadata' appears to be a setuptools-vendored copy - creating alias to 'setuptools._
+vendor.importlib_metadata'!
+20968 INFO: Processing standard module hook 'hook-setuptools._vendor.importlib_metadata.py' from 'D:\\pytyhon project\\
+zhijuan-workbench\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+21006 INFO: Processing pre-safe-import-module hook 'hook-zipp.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\\
+Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+21007 INFO: Setuptools: 'zipp' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.zipp'!
+21050 INFO: Processing standard module hook 'hook-win32ctypes.core.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.v
+env\\Lib\\site-packages\\PyInstaller\\hooks'
+23039 INFO: Analyzing hidden import 'webview._version'
+23041 INFO: Processing module hooks (post-graph stage)...
+23230 INFO: Processing standard module hook 'hook-difflib.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\\Lib\
+\site-packages\\PyInstaller\\hooks'
+24050 INFO: Processing standard module hook 'hook-lxml.isoschematron.py' from 'D:\\pytyhon project\\zhijuan-workbench\\
+.venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+24100 WARNING: Hidden import "pycparser.lextab" not found!
+24100 WARNING: Hidden import "pycparser.yacctab" not found!
+24628 INFO: Processing standard module hook 'hook-PIL.SpiderImagePlugin.py' from 'D:\\pytyhon project\\zhijuan-workbenc
+h\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+24857 INFO: Processing standard module hook 'hook-lxml.objectify.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.ven
+v\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+24872 INFO: Performing binary vs. data reclassification (171 entries)
+24974 INFO: Looking for ctypes DLLs
+25098 INFO: Analyzing run-time hooks ...
+25106 INFO: Including run-time hook 'pyi_rth_inspect.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\\Lib\\site
+-packages\\PyInstaller\\hooks\\rthooks'
+25111 INFO: Including run-time hook 'pyi_rth_pkgutil.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\\Lib\\site
+-packages\\PyInstaller\\hooks\\rthooks'
+25115 INFO: Including run-time hook 'pyi_rth_multiprocessing.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\\L
+ib\\site-packages\\PyInstaller\\hooks\\rthooks'
+25120 INFO: Including run-time hook 'pyi_rth_setuptools.py' from 'D:\\pytyhon project\\zhijuan-workbench\\.venv\\Lib\\s
+ite-packages\\PyInstaller\\hooks\\rthooks'
+25147 INFO: Creating base_library.zip...
+25180 INFO: Looking for dynamic libraries
+26824 INFO: Extra DLL search directories (AddDllDirectory): []
+26824 INFO: Extra DLL search directories (PATH): []
+27879 INFO: Warnings written to D:\pytyhon project\zhijuan-workbench\build_debug\ZjDebug\warn-ZjDebug.txt
+27969 INFO: Graph cross-reference written to D:\pytyhon project\zhijuan-workbench\build_debug\ZjDebug\xref-ZjDebug.html
+28023 INFO: checking PYZ
+28023 INFO: Building PYZ because PYZ-00.toc is non existent
+28023 INFO: Building PYZ (ZlibArchive) D:\pytyhon project\zhijuan-workbench\build_debug\ZjDebug\PYZ-00.pyz
+28855 INFO: Building PYZ (ZlibArchive) D:\pytyhon project\zhijuan-workbench\build_debug\ZjDebug\PYZ-00.pyz completed su
+ccessfully.
+28880 INFO: checking PKG
+28880 INFO: Building PKG because PKG-00.toc is non existent
+28880 INFO: Building PKG (CArchive) ZjDebug.pkg
+28927 INFO: Building PKG (CArchive) ZjDebug.pkg completed successfully.
+28929 INFO: Bootloader D:\pytyhon project\zhijuan-workbench\.venv\Lib\site-packages\PyInstaller\bootloader\Windows-64bi
+t-intel\run.exe
+28929 INFO: checking EXE
+28929 INFO: Building EXE because EXE-00.toc is non existent
+28929 INFO: Building EXE from EXE-00.toc
+28930 INFO: Copying bootloader EXE to D:\pytyhon project\zhijuan-workbench\build_debug\ZjDebug\ZjDebug.exe
+29154 INFO: Copying icon to EXE
+29376 INFO: Copying 0 resources to EXE
+29376 INFO: Embedding manifest in EXE
+29621 INFO: Appending PKG archive to EXE
+29630 INFO: Fixing EXE headers
+29720 INFO: Building EXE from EXE-00.toc completed successfully.
+29725 INFO: checking COLLECT
+29725 INFO: Building COLLECT because COLLECT-00.toc is non existent
+29726 INFO: Building COLLECT COLLECT-00.toc
+30627 INFO: Building COLLECT COLLECT-00.toc completed successfully.
+30635 INFO: Build complete! The results are available in: D:\pytyhon project\zhijuan-workbench\dist_debug
